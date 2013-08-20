@@ -1,0 +1,17 @@
+
+
+上一个DEMO我们已经学会了怎样用代码在 window 上添加 view 了，但是在一般的工程中，我们基本不会在当前类里管理我们的视图。
+这里我们继续学习 怎样在UIWindow上添加 UIViewController（视图控制器）
+
+我们建立了一个Empty Application，然后我们修改他的AppDelegate.m文件中的下列函数
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    // Override point for customization after application launch.
+    self.window.backgroundColor = [UIColor whiteColor];
+    [self.window makeKeyAndVisible];
+    return YES;
+}
+
+

@@ -1,0 +1,20 @@
+这个Demo我们主要学习UIWindow
+
+首先我们要了解在iOS上我们看到的大部分应用都是单窗口应用，也就是一个应用只有一个Window，且占满整个屏幕。
+
+
+我们建立了一个Empty Application，然后我们修改他的AppDelegate.m文件中的下列函数
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    // Override point for customization after application launch.
+    self.window.backgroundColor = [UIColor whiteColor];
+    [self.window makeKeyAndVisible];
+    return YES;
+}
+
+通过修改这个函数我们可以了解我们的应用程序的最基本承载界面UIWindow
+
+下一个 Demo中我们会学习怎么添加UIView到UIWindow上
+

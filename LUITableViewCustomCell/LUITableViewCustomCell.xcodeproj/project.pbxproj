@@ -1,0 +1,313 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8213F31616981B0900E06855 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8213F31516981B0900E06855 /* UIKit.framework */; };
+		8213F31816981B0900E06855 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8213F31716981B0900E06855 /* Foundation.framework */; };
+		8213F31A16981B0900E06855 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8213F31916981B0900E06855 /* CoreGraphics.framework */; };
+		8213F32016981B0900E06855 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8213F31E16981B0900E06855 /* InfoPlist.strings */; };
+		8213F32216981B0900E06855 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8213F32116981B0900E06855 /* main.m */; };
+		8213F32616981B0900E06855 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8213F32516981B0900E06855 /* AppDelegate.m */; };
+		8213F32816981B0900E06855 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8213F32716981B0900E06855 /* Default.png */; };
+		8213F32A16981B0900E06855 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8213F32916981B0900E06855 /* Default@2x.png */; };
+		8213F32C16981B0900E06855 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8213F32B16981B0900E06855 /* Default-568h@2x.png */; };
+		8213F32F16981B0900E06855 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8213F32E16981B0900E06855 /* ViewController.m */; };
+		8213F33216981B0900E06855 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8213F33016981B0900E06855 /* ViewController.xib */; };
+		8213F33916981B5800E06855 /* Demo说明.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8213F33816981B5800E06855 /* Demo说明.txt */; };
+		8213F33C1698221800E06855 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8213F33B1698221800E06855 /* CustomCell.m */; };
+		8213F33E1698305600E06855 /* headImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8213F33D1698305600E06855 /* headImage.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8213F31116981B0900E06855 /* LUITableViewCustomCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LUITableViewCustomCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8213F31516981B0900E06855 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8213F31716981B0900E06855 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8213F31916981B0900E06855 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8213F31D16981B0900E06855 /* LUITableViewCustomCell-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LUITableViewCustomCell-Info.plist"; sourceTree = "<group>"; };
+		8213F31F16981B0900E06855 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8213F32116981B0900E06855 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8213F32316981B0900E06855 /* LUITableViewCustomCell-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LUITableViewCustomCell-Prefix.pch"; sourceTree = "<group>"; };
+		8213F32416981B0900E06855 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8213F32516981B0900E06855 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		8213F32716981B0900E06855 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		8213F32916981B0900E06855 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8213F32B16981B0900E06855 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8213F32D16981B0900E06855 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		8213F32E16981B0900E06855 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8213F33116981B0900E06855 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		8213F33816981B5800E06855 /* Demo说明.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Demo说明.txt"; sourceTree = "<group>"; };
+		8213F33A1698221800E06855 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		8213F33B1698221800E06855 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		8213F33D1698305600E06855 /* headImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = headImage.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8213F30E16981B0900E06855 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8213F31616981B0900E06855 /* UIKit.framework in Frameworks */,
+				8213F31816981B0900E06855 /* Foundation.framework in Frameworks */,
+				8213F31A16981B0900E06855 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8213F30616981B0900E06855 = {
+			isa = PBXGroup;
+			children = (
+				8213F33816981B5800E06855 /* Demo说明.txt */,
+				8213F31B16981B0900E06855 /* LUITableView */,
+				8213F31416981B0900E06855 /* Frameworks */,
+				8213F31216981B0900E06855 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8213F31216981B0900E06855 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8213F31116981B0900E06855 /* LUITableViewCustomCell.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8213F31416981B0900E06855 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8213F31516981B0900E06855 /* UIKit.framework */,
+				8213F31716981B0900E06855 /* Foundation.framework */,
+				8213F31916981B0900E06855 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8213F31B16981B0900E06855 /* LUITableView */ = {
+			isa = PBXGroup;
+			children = (
+				8213F32416981B0900E06855 /* AppDelegate.h */,
+				8213F32516981B0900E06855 /* AppDelegate.m */,
+				8213F32D16981B0900E06855 /* ViewController.h */,
+				8213F32E16981B0900E06855 /* ViewController.m */,
+				8213F33A1698221800E06855 /* CustomCell.h */,
+				8213F33B1698221800E06855 /* CustomCell.m */,
+				8213F33016981B0900E06855 /* ViewController.xib */,
+				8213F31C16981B0900E06855 /* Supporting Files */,
+			);
+			path = LUITableView;
+			sourceTree = "<group>";
+		};
+		8213F31C16981B0900E06855 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8213F33D1698305600E06855 /* headImage.jpg */,
+				8213F31D16981B0900E06855 /* LUITableViewCustomCell-Info.plist */,
+				8213F31E16981B0900E06855 /* InfoPlist.strings */,
+				8213F32116981B0900E06855 /* main.m */,
+				8213F32316981B0900E06855 /* LUITableViewCustomCell-Prefix.pch */,
+				8213F32716981B0900E06855 /* Default.png */,
+				8213F32916981B0900E06855 /* Default@2x.png */,
+				8213F32B16981B0900E06855 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8213F31016981B0900E06855 /* LUITableViewCustomCell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8213F33516981B0900E06855 /* Build configuration list for PBXNativeTarget "LUITableViewCustomCell" */;
+			buildPhases = (
+				8213F30D16981B0900E06855 /* Sources */,
+				8213F30E16981B0900E06855 /* Frameworks */,
+				8213F30F16981B0900E06855 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LUITableViewCustomCell;
+			productName = LUITableView;
+			productReference = 8213F31116981B0900E06855 /* LUITableViewCustomCell.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8213F30816981B0900E06855 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Oran Wu";
+			};
+			buildConfigurationList = 8213F30B16981B0900E06855 /* Build configuration list for PBXProject "LUITableViewCustomCell" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8213F30616981B0900E06855;
+			productRefGroup = 8213F31216981B0900E06855 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8213F31016981B0900E06855 /* LUITableViewCustomCell */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8213F30F16981B0900E06855 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8213F32016981B0900E06855 /* InfoPlist.strings in Resources */,
+				8213F32816981B0900E06855 /* Default.png in Resources */,
+				8213F32A16981B0900E06855 /* Default@2x.png in Resources */,
+				8213F32C16981B0900E06855 /* Default-568h@2x.png in Resources */,
+				8213F33216981B0900E06855 /* ViewController.xib in Resources */,
+				8213F33916981B5800E06855 /* Demo说明.txt in Resources */,
+				8213F33E1698305600E06855 /* headImage.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8213F30D16981B0900E06855 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8213F32216981B0900E06855 /* main.m in Sources */,
+				8213F32616981B0900E06855 /* AppDelegate.m in Sources */,
+				8213F32F16981B0900E06855 /* ViewController.m in Sources */,
+				8213F33C1698221800E06855 /* CustomCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8213F31E16981B0900E06855 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8213F31F16981B0900E06855 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8213F33016981B0900E06855 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8213F33116981B0900E06855 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8213F33316981B0900E06855 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8213F33416981B0900E06855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8213F33616981B0900E06855 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LUITableView/LUITableViewCustomCell-Prefix.pch";
+				INFOPLIST_FILE = "LUITableView/LUITableViewCustomCell-Info.plist";
+				PRODUCT_NAME = LUITableViewCustomCell;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8213F33716981B0900E06855 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "LUITableView/LUITableViewCustomCell-Prefix.pch";
+				INFOPLIST_FILE = "LUITableView/LUITableViewCustomCell-Info.plist";
+				PRODUCT_NAME = LUITableViewCustomCell;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8213F30B16981B0900E06855 /* Build configuration list for PBXProject "LUITableViewCustomCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8213F33316981B0900E06855 /* Debug */,
+				8213F33416981B0900E06855 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8213F33516981B0900E06855 /* Build configuration list for PBXNativeTarget "LUITableViewCustomCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8213F33616981B0900E06855 /* Debug */,
+				8213F33716981B0900E06855 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8213F30816981B0900E06855 /* Project object */;
+}

@@ -1,0 +1,17 @@
+
+    //*******************************************************************************
+    //在上一个Demo中我们了解了基本的UIWindow的创建。下面我们继续学习如何在我们的UIWindow上添加 UIView
+    //*******************************************************************************
+
+我们建立了一个Empty Application，然后我们修改他的AppDelegate.m文件中的下列函数
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    // Override point for customization after application launch.
+    self.window.backgroundColor = [UIColor whiteColor];
+    [self.window makeKeyAndVisible];
+    return YES;
+}
+
+

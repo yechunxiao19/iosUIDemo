@@ -1,0 +1,2116 @@
+TTableViewPull
+v7
+r0
+t332669476.013041
+cCheck dependencies
+cCpResource build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist" Resources/TableViewPull-Info.plist
+cCompileXIB "/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib"
+cCompileXIB "/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib"
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png" Resources/blackArrow.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png" Resources/blueArrow.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png" Resources/whiteArrow.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png" Resources/grayArrow@2x.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png" Resources/blueArrow@2x.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png" Resources/blackArrow@2x.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png" Resources/grayArrow.png
+cCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png" Resources/whiteArrow@2x.png
+cProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o "/Users/hxc/Documents/iphone code/TableViewPull/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/NSObject+SBJson.o "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonTokeniser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonUTF8Stream.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/CheckNetwork.o "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/Reachability.o "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/MyDataSource.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull" normal armv6
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o "/Users/hxc/Documents/iphone code/TableViewPull/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/NSObject+SBJson.o "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonTokeniser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonUTF8Stream.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/CheckNetwork.o "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/Reachability.o "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/MyDataSource.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull" normal armv7
+cCreateUniversalBinary "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull"
+cTouch "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent"
+cCodeSign "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4FA40000000000000AB3
+t1280987044
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A556300000000000000C4
+t1280988515
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A56D600000000002573D0
+t1280988886
+s2454480
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004C5A511A0000000000001A58
+t1280987418
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004C5A512E00000000000B0B30
+t1280987438
+s723760
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/arpa/inet.h
+c000000004C5790620000000000001533
+t1280807010
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/ifaddrs.h
+c000000004C5790730000000000000782
+t1280807027
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netdb.h
+c000000004C57909B000000000000307F
+t1280807067
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet/in.h
+c000000004C5A4AAE0000000000005462
+t1280985774
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/netinet6/in6.h
+c000000004C5A4AAE0000000000004F61
+t1280985774
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/sys/socket.h
+c000000004C5A4AB400000000000059D6
+t1280985780
+s22998
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004C44E63A0000000000000C7E
+t1279583802
+s3198
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CCF6ECF0000000000000110
+t1288662735
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.h
+c000000004CFA9738000000000000068A
+t1291491128
+s1674
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+c000000004CFA97380000000000001C49
+t1291491128
+s7241
+i"RootViewController.h"
+i"EGORefreshTableHeaderView.h"
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.h
+c000000004CFA9738000000000000060D
+t1291491128
+s1549
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+c000000004CFA9738000000000000078F
+t1291491128
+s1935
+i"TableViewPullAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.h
+c000000004CFA973800000000000006D6
+t1291491128
+s1750
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+c000000004CFA97380000000000001778
+t1291491128
+s6008
+i"EGORefreshTableHeaderView.h"
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/MainWindow.xib
+c000000004CFA97380000000000002C79
+t1291491128
+s11385
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/RootViewController.xib
+c000000004CFA973800000000000043CB
+t1291491128
+s17355
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blackArrow.png
+c000000004CFA973800000000000010DC
+t1291491128
+s4316
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blackArrow@2x.png
+c000000004CFA97380000000000000650
+t1291491128
+s1616
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blueArrow.png
+c000000004CFA9738000000000000118C
+t1291491128
+s4492
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/blueArrow@2x.png
+c000000004CFA973800000000000005F9
+t1291491128
+s1529
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/grayArrow.png
+c000000004CFA9738000000000000077A
+t1291491128
+s1914
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/grayArrow@2x.png
+c000000004CFA9738000000000000083D
+t1291491128
+s2109
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/whiteArrow.png
+c000000004CFA97380000000000001054
+t1291491128
+s4180
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/whiteArrow@2x.png
+c000000004CFA97380000000000000621
+t1291491128
+s1569
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/TableViewPull_Prefix.pch
+c000000004CFA9738000000000000014C
+t1291491128
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/MainWindow.nib
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/PkgInfo
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/RootViewController.nib
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/main.m
+c000000004CFA97380000000000000177
+t1291491128
+s375
+i<UIKit/UIKit.h>
+
+N/Users/devin/Library/MobileDevice/Provisioning Profiles/C1BF0C20-972E-4EB9-A0A7-E37FC9DCADAF.mobileprovision
+c000000004CC866160000000000001CF0
+t1288201750
+s7408
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.h
+c000000004DE2E586000000000000067F
+t1306715526
+s1663
+i"EGORefreshTableHeaderView.h"
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+c000000004DE2E5860000000000001147
+t1306715526
+s4423
+i"RootViewController.h"
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.h
+c000000004DE2E586000000000000060D
+t1306715526
+s1549
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+c000000004DE2E586000000000000078F
+t1306715526
+s1935
+i"TableViewPullAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.h
+c000000004DE2E586000000000000090B
+t1306715526
+s2315
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+c000000004DE2E586000000000000202F
+t1306715526
+s8239
+i"EGORefreshTableHeaderView.h"
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/MainWindow.xib
+c000000004DE2E5860000000000002C79
+t1306715526
+s11385
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/RootViewController.xib
+c000000004DE2E58600000000000043CB
+t1306715526
+s17355
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/blackArrow.png
+c000000004DE2E58600000000000010DC
+t1306715526
+s4316
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/blackArrow@2x.png
+c000000004DE2E5860000000000000650
+t1306715526
+s1616
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/blueArrow.png
+c000000004DE2E586000000000000118C
+t1306715526
+s4492
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/blueArrow@2x.png
+c000000004DE2E58600000000000005F9
+t1306715526
+s1529
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/grayArrow.png
+c000000004DE2E586000000000000077A
+t1306715526
+s1914
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/grayArrow@2x.png
+c000000004DE2E586000000000000083D
+t1306715526
+s2109
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/whiteArrow.png
+c000000004DE2E5860000000000001054
+t1306715526
+s4180
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/whiteArrow@2x.png
+c000000004DE2E5860000000000000621
+t1306715526
+s1569
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/TableViewPull_Prefix.pch
+c000000004DE2E586000000000000014C
+t1306715526
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/MainWindow.nib
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/PkgInfo
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/RootViewController.nib
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/main.m
+c000000004DE2E5860000000000000177
+t1306715526
+s375
+i<UIKit/UIKit.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.h
+c000000004E23BBBF00000000000000ED
+t1310964671
+s237
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m
+c000000004E23BCED0000000000000414
+t1310964973
+s1044
+i"CheckNetwork.h"
+i"Reachability.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.h
+c000000004E23DC480000000000000138
+t1310973000
+s312
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m
+c000000004E23DD8200000000000003E9
+t1310973314
+s1001
+i"MyDataSource.h"
+i"SBJson.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.h
+c000000004E23E35400000000000006CA
+t1310974804
+s1738
+i"EGORefreshTableHeaderView.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+c000000004E23EA8C0000000000001443
+t1310976652
+s5187
+i"RootViewController.h"
+i"MyDataSource.h"
+i"CheckNetwork.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.h
+c000000004DE2E586000000000000060D
+t1306715526
+s1549
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+c000000004DE2E586000000000000078F
+t1306715526
+s1935
+i"TableViewPullAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.h
+c000000004DE2E586000000000000090B
+t1306715526
+s2315
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+c000000004DE2E586000000000000202F
+t1306715526
+s8239
+i"EGORefreshTableHeaderView.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.h
+c000000004E17949600000000000008B7
+t1310168214
+s2231
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m
+c000000004E17949600000000000008A6
+t1310168214
+s2214
+i"NSObject+SBJson.h"
+i"SBJsonWriter.h"
+i"SBJsonParser.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Reachability.h
+c000000004E23BC140000000000000F1C
+t1310964756
+s3868
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m
+c000000004E23BC2800000000000023A5
+t1310964776
+s9125
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib
+c000000004DE2E5860000000000002C79
+t1306715526
+s11385
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib
+c000000004E23B4C3000000000000482F
+t1310962883
+s18479
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow.png
+c000000004DE2E58600000000000010DC
+t1306715526
+s4316
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow@2x.png
+c000000004DE2E5860000000000000650
+t1306715526
+s1616
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow.png
+c000000004DE2E586000000000000118C
+t1306715526
+s4492
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow@2x.png
+c000000004DE2E58600000000000005F9
+t1306715526
+s1529
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow.png
+c000000004DE2E586000000000000077A
+t1306715526
+s1914
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow@2x.png
+c000000004DE2E586000000000000083D
+t1306715526
+s2109
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow.png
+c000000004DE2E5860000000000001054
+t1306715526
+s4180
+
+N/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow@2x.png
+c000000004DE2E5860000000000000621
+t1306715526
+s1569
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJson.h
+c000000004E1794960000000000000DA2
+t1310168214
+s3490
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamWriter.h"
+i"NSObject+SBJson.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.h
+c000000004E1794960000000000000DCA
+t1310168214
+s3530
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m
+c000000004E1794960000000000000CC0
+t1310168214
+s3264
+i"SBJsonParser.h"
+i"SBJsonStreamParser.h"
+i"SBJsonStreamParserAdapter.h"
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.h
+c000000004E1794960000000000001550
+t1310168214
+s5456
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m
+c000000004E1794960000000000001AC1
+t1310168214
+s6849
+i"SBJsonStreamParser.h"
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParserState.h"
+i<limits.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.h
+c000000004E17949600000000000006AE
+t1310168214
+s1710
+i<Foundation/Foundation.h>
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m
+c000000004E179496000000000000079B
+t1310168214
+s1947
+i"SBJsonStreamParserAccumulator.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.h
+c000000004E179496000000000000141D
+t1310168214
+s5149
+i<Foundation/Foundation.h>
+i"SBJsonStreamParser.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m
+c000000004E17949600000000000011DD
+t1310168214
+s4573
+i"SBJsonStreamParserAdapter.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.h
+c000000004E1794960000000000000B22
+t1310168214
+s2850
+i<Foundation/Foundation.h>
+i"SBJsonTokeniser.h"
+i"SBJsonStreamParser.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m
+c000000004E1794960000000000001FB6
+t1310168214
+s8118
+i"SBJsonStreamParserState.h"
+i"SBJsonStreamParser.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.h
+c000000004E179496000000000000161D
+t1310168214
+s5661
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m
+c000000004E1794960000000000002956
+t1310168214
+s10582
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterState.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.h
+c000000004E1794960000000000000693
+t1310168214
+s1683
+i"SBJsonStreamWriter.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m
+c000000004E17949600000000000007EB
+t1310168214
+s2027
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.h
+c000000004E17949600000000000009EC
+t1310168214
+s2540
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m
+c000000004E1794960000000000000F61
+t1310168214
+s3937
+i"SBJsonStreamWriterState.h"
+i"SBJsonStreamWriter.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.h
+c000000004E1794960000000000000888
+t1310168214
+s2184
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m
+c000000004E17949600000000000031FE
+t1310168214
+s12798
+i"SBJsonTokeniser.h"
+i"SBJsonUTF8Stream.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.h
+c000000004E1794960000000000000814
+t1310168214
+s2068
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m
+c000000004E1794960000000000000F25
+t1310168214
+s3877
+i"SBJsonUTF8Stream.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.h
+c000000004E1794960000000000001059
+t1310168214
+s4185
+i<Foundation/Foundation.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m
+c000000004E1794960000000000000DBF
+t1310168214
+s3519
+i"SBJsonWriter.h"
+i"SBJsonStreamWriter.h"
+i"SBJsonStreamWriterAccumulator.h"
+
+N/Users/hxc/Documents/iphone code/TableViewPull/TableViewPull_Prefix.pch
+c000000004DE2E586000000000000014C
+t1306715526
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+t1310976676
+s612
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM
+t1310976675
+s102
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist
+t1310974414
+s755
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/MainWindow.nib
+t1310974415
+s2431
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/PkgInfo
+t1310974414
+s8
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist
+t1310974414
+s485
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/RootViewController.nib
+t1310974415
+s1379
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+t1310976675
+s307104
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png
+t1310974415
+s4012
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png
+t1310974415
+s1583
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png
+t1310974415
+s4190
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png
+t1310974415
+s2096
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png
+t1310974415
+s2080
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png
+t1310974415
+s2134
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png
+t1310974415
+s4166
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png
+t1310974415
+s2238
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/CheckNetwork.o
+t1310976479
+s40804
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+t1310974417
+s58516
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/MyDataSource.o
+t1310976479
+s10828
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/NSObject+SBJson.o
+t1310976478
+s8744
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/Reachability.o
+t1310976479
+s22276
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o
+t1310976675
+s55444
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonParser.o
+t1310976478
+s16104
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParser.o
+t1310976479
+s27536
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o
+t1310976479
+s10312
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o
+t1310976479
+s23228
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserState.o
+t1310976479
+s41456
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriter.o
+t1310976479
+s43536
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o
+t1310976479
+s10680
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterState.o
+t1310976479
+s25644
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonTokeniser.o
+t1310976479
+s28924
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonUTF8Stream.o
+t1310976479
+s16992
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonWriter.o
+t1310976479
+s18088
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull
+t1310976675
+s145360
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull.LinkFileList
+c000000004E23E9DE0000000000000B22
+t1310976478
+s2850
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o
+t1310976478
+s48164
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o
+t1310974418
+s6464
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/CheckNetwork.o
+t1310976481
+s40760
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+t1310974418
+s57404
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/MyDataSource.o
+t1310976481
+s10764
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/NSObject+SBJson.o
+t1310976480
+s8700
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/Reachability.o
+t1310976481
+s21880
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o
+t1310976675
+s55076
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonParser.o
+t1310976480
+s15944
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParser.o
+t1310976480
+s26532
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o
+t1310976480
+s10248
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o
+t1310976480
+s22820
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserState.o
+t1310976480
+s40888
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriter.o
+t1310976480
+s39848
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o
+t1310976480
+s10620
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterState.o
+t1310976480
+s25500
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonTokeniser.o
+t1310976481
+s25868
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonUTF8Stream.o
+t1310976481
+s16772
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonWriter.o
+t1310976481
+s17892
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull
+t1310976675
+s140908
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull.LinkFileList
+c000000004E23E9DE0000000000000B22
+t1310976478
+s2850
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o
+t1310976480
+s48092
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o
+t1310974418
+s6448
+
+N/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent
+t1310974418
+s374
+
+N/Users/hxc/Documents/iphone code/TableViewPull/main.m
+c000000004DE2E5860000000000000177
+t1306715526
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cswrzaqqbyqzxyfddadodzjsnmwy/TableViewPull_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-gkfnvogmweunhhfaxiqxuzstqpxw/TableViewPull_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch.gch
+t1310974417
+s10315312
+
+N/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bnubkuvswmqjsteqfybtxozigcgq/TableViewPull_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bwxzgnxisfahnwfbtmorasqglidg/TableViewPull_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch.gch
+t1310974417
+s9852464
+
+NResources/TableViewPull-Info.plist
+c000000004DE2E586000000000000038D
+t1306715526
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332669475#332669475#0(0"0(0#1#0"8645258016#0"0#
+
+CCodeSign "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+r0
+
+CCodeSign "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+s332669475.740165
+e332669476.012985
+r1
+xCodeSign
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/TableViewPull.app332669475#332669476#0(0"0(0#0#85"/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app8648171456#691"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" "--resource-rules=/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist" --entitlements "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"0#
+
+CCodeSign /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/CheckNetwork.o "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.681306
+e332669279.863194
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/CheckNetwork.o
+x/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m332669279#332669279#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m8646921024#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/CheckNetwork.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332667217.718938
+e332667217.971090
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m332667217#332667217#0(0"0(0#0#110"/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m8641435872#2032"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/EGORefreshTableHeaderView.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/MyDataSource.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.863337
+e332669279.937141
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/MyDataSource.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m332669279#332669279#0(0"0(0#0#99"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m8642083648#2008"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/MyDataSource.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/NSObject+SBJson.o "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669278.774326
+e332669278.894882
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/NSObject+SBJson.o
+x/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m332669278#332669278#0(0"0(0#0#64"/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m8642573088#1976"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/NSObject+SBJson.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/Reachability.o "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.770676
+e332669280.008657
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/Reachability.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/Reachability.m332669279#332669280#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m8644645600#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/Reachability.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669475.023224
+e332669475.251787
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m332669475#332669475#0(0"0(0#0#105"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m8630518368#2020"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/RootViewController.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669278.830370
+e332669278.945933
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m332669278#332669278#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m8646614464#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonParser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669278.895058
+e332669279.170525
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m332669278#332669279#0(0"0(0#0#67"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m8643932032#1982"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669278.946122
+e332669279.023554
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m332669278#332669279#0(0"0(0#0#78"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m8634768480#2004"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAccumulator.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.023706
+e332669279.205005
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m332669279#332669279#0(0"0(0#0#74"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m8644387776#1996"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserAdapter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.170697
+e332669279.354625
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserState.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m332669279#332669279#0(0"0(0#0#72"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m8646545472#1992"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamParserState.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.205152
+e332669279.446023
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m332669279#332669279#0(0"0(0#0#67"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m8644871680#1982"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.354802
+e332669279.434609
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m332669279#332669279#0(0"0(0#0#78"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m8640599360#2004"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterAccumulator.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.434793
+e332669279.559534
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterState.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m332669279#332669279#0(0"0(0#0#72"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m8635701088#1992"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonStreamWriterState.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonTokeniser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.446184
+e332669279.651425
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonTokeniser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m332669279#332669279#0(0"0(0#0#64"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m8630995904#1976"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonTokeniser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonUTF8Stream.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.559688
+e332669279.681158
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonUTF8Stream.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m332669279#332669279#0(0"0(0#0#65"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m8649463488#1978"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonUTF8Stream.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669279.651602
+e332669279.770522
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m332669279#332669279#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m8647879712#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/SBJsonWriter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332669278.537327
+e332669278.773561
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m332669278#332669278#0(0"0(0#0#90"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m8637715520#2011"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPullAppDelegate.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o "/Users/hxc/Documents/iphone code/TableViewPull/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332667217.971241
+e332667218.052800
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o
+x/Users/hxc/Documents/iphone code/TableViewPull/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/hxc/Documents/iphone code/TableViewPull/main.m332667217#332667218#0(0"0(0#0#53"/Users/hxc/Documents/iphone code/TableViewPull/main.m8635526496#1954"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/main.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/main.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/CheckNetwork.o "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669281.050915
+e332669281.184970
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/CheckNetwork.o
+x/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m332669281#332669281#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m8644630368#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/CheckNetwork.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/CheckNetwork.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332667218.152322
+e332667218.379964
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m332667218#332667218#0(0"0(0#0#110"/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m8631720640#2032"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/EGORefreshTableHeaderView.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/View/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/MyDataSource.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669281.185133
+e332669281.274433
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/MyDataSource.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m332669281#332669281#0(0"0(0#0#99"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m8647411168#2008"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/MyDataSource.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/MyDataSource.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/NSObject+SBJson.o "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.201206
+e332669280.288670
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/NSObject+SBJson.o
+x/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m332669280#332669280#0(0"0(0#0#64"/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m8647029152#1976"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/NSObject+SBJson.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/NSObject+SBJson.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/Reachability.o "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669281.169701
+e332669281.317309
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/Reachability.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/Reachability.m332669281#332669281#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m8648806688#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Reachability.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/Reachability.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669475.093527
+e332669475.282057
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m332669475#332669475#0(0"0(0#0#105"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m8647494656#2020"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Controller/RootViewController/RootViewController.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/RootViewController.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Controller/RootViewController/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.209926
+e332669280.307010
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m332669280#332669280#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m8641173760#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonParser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonParser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.289169
+e332669280.469753
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m332669280#332669280#0(0"0(0#0#67"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m8636465376#1982"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.307187
+e332669280.405136
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m332669280#332669280#0(0"0(0#0#78"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m8630591712#2004"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAccumulator.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAccumulator.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.405296
+e332669280.545711
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m332669280#332669280#0(0"0(0#0#74"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m8647340928#1996"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserAdapter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserAdapter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.469896
+e332669280.688619
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserState.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m332669280#332669280#0(0"0(0#0#72"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m8649356640#1992"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamParserState.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamParserState.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.545849
+e332669280.799209
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m332669280#332669280#0(0"0(0#0#67"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m8642568128#1982"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.688775
+e332669280.774813
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m332669280#332669280#0(0"0(0#0#78"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m8647341696#2004"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterAccumulator.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterAccumulator.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterState.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.775028
+e332669280.896628
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterState.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m332669280#332669280#0(0"0(0#0#72"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m8645373568#1992"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonStreamWriterState.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonStreamWriterState.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonTokeniser.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.799348
+e332669281.050762
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonTokeniser.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m332669280#332669281#0(0"0(0#0#64"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m8643488352#1976"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonTokeniser.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonTokeniser.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonUTF8Stream.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669280.896769
+e332669281.047846
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonUTF8Stream.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m332669280#332669281#0(0"0(0#0#65"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m8641261920#1978"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonUTF8Stream.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonUTF8Stream.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonWriter.o "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669281.048087
+e332669281.168118
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m332669281#332669281#0(0"0(0#0#61"/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m8634103648#1970"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/SBJsonWriter.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/SBJsonWriter.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332669279.937290
+e332669280.055558
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o
+x/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m332669279#332669280#0(0"0(0#0#90"/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m8640466944#2011"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPullAppDelegate.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Classes/Delegate/TableViewPullAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o "/Users/hxc/Documents/iphone code/TableViewPull/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332667218.327824
+e332667218.394895
+r1
+xCompileC
+xbuild/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o
+x/Users/hxc/Documents/iphone code/TableViewPull/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/hxc/Documents/iphone code/TableViewPull/main.m332667218#332667218#0(0"0(0#0#53"/Users/hxc/Documents/iphone code/TableViewPull/main.m8641214656#1954"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -include /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch -c "/Users/hxc/Documents/iphone code/TableViewPull/main.m" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o"0#
+
+CCompileC build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/main.o /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/Resources/RootViewController.xib"
+r0
+
+CCompileXIB "/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib"
+s332667214.396807
+e332667215.194548
+r1
+xCompileXIB
+x/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib
+lSLF07#2@35"CompileXIB Resources/MainWindow.xib332667214#332667215#0(0"0(0#0#71"/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib8632515968#588"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/MainWindow.nib" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB "/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib"
+s332667214.398059
+e332667215.079901
+r1
+xCompileXIB
+x/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib
+lSLF07#2@43"CompileXIB Resources/RootViewController.xib332667214#332667215#0(0"0(0#0#79"/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib8632112416#604"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/RootViewController.nib" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/RootViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/MainWindow.xib
+r0
+
+CCompileXIB /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/Resources/RootViewController.xib
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png" Resources/blackArrow.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png" Resources/blackArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png" Resources/blueArrow.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png" Resources/blueArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png" Resources/grayArrow.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png" Resources/grayArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png" Resources/whiteArrow.png
+r0
+
+CCopyPNGFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png" Resources/whiteArrow@2x.png
+r0
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png" Resources/blackArrow.png
+s332667215.080056
+e332667215.269662
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png
+xResources/blackArrow.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/blackArrow.png Resources/blackArrow.png332667215#332667215#0(0"0(0#0#71"/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow.png8635169792#614"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png" Resources/blackArrow@2x.png
+s332667215.330209
+e332667215.374569
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png
+xResources/blackArrow@2x.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png Resources/blackArrow@2x.png332667215#332667215#0(0"0(0#0#74"/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow@2x.png8641678816#620"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/blackArrow@2x.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png" Resources/blueArrow.png
+s332667215.194693
+e332667215.255000
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png
+xResources/blueArrow.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/blueArrow.png Resources/blueArrow.png332667215#332667215#0(0"0(0#0#70"/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow.png8629715840#612"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png" Resources/blueArrow@2x.png
+s332667215.297188
+e332667215.353991
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png
+xResources/blueArrow@2x.png
+lSLF07#2@94"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png Resources/blueArrow@2x.png332667215#332667215#0(0"0(0#0#73"/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow@2x.png8629691552#618"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/blueArrow@2x.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png" Resources/grayArrow.png
+s332667215.354127
+e332667215.389454
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png
+xResources/grayArrow.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/grayArrow.png Resources/grayArrow.png332667215#332667215#0(0"0(0#0#70"/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow.png8640731584#612"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png" Resources/grayArrow@2x.png
+s332667215.269828
+e332667215.330056
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png
+xResources/grayArrow@2x.png
+lSLF07#2@94"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png Resources/grayArrow@2x.png332667215#332667215#0(0"0(0#0#73"/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow@2x.png8637054656#618"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/grayArrow@2x.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png" Resources/whiteArrow.png
+s332667215.255128
+e332667215.297033
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png
+xResources/whiteArrow.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/whiteArrow.png Resources/whiteArrow.png332667215#332667215#0(0"0(0#0#71"/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow.png8640383296#614"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png"0#
+
+CCopyPNGFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png" Resources/whiteArrow@2x.png
+s332667215.374700
+e332667215.415892
+r1
+xCopyPNGFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png
+xResources/whiteArrow@2x.png
+lSLF07#2@96"CopyPNGFile build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png Resources/whiteArrow@2x.png332667215#332667215#0(0"0(0#0#74"/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow@2x.png8640106592#620"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/hxc/Documents/iphone code/TableViewPull/Resources/whiteArrow@2x.png" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png"0#
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow.png Resources/blackArrow.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blackArrow@2x.png Resources/blackArrow@2x.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow.png Resources/blueArrow.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/blueArrow@2x.png Resources/blueArrow@2x.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow.png Resources/grayArrow.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/grayArrow@2x.png Resources/grayArrow@2x.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow.png Resources/whiteArrow.png
+r0
+
+CCopyPNGFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/whiteArrow@2x.png Resources/whiteArrow@2x.png
+r0
+
+CCpResource build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s332667214.385425
+e332667214.393797
+r1
+xCpResource
+xbuild/Debug-iphoneos/TableViewPull.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist332667214#332667214#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8635839552#506"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"0#
+
+CCpResource build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull" normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull" normal "armv6 armv7"
+s332669475.343197
+e332669475.349602
+r1
+xCreateUniversalBinary
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/TableViewPull.app/TableViewPull normal "armv6 armv7"332669475#332669475#0(0"0(0#0#58"/Users/hxc/Documents/iphone code/TableViewPull/armv6 armv78636274752#606"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull" "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull" -output "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull"0#
+
+CCreateUniversalBinary /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM" "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull"
+r0
+
+CGenerateDSYMFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM" "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull"
+s332669475.349755
+e332669475.731492
+r1
+xGenerateDSYMFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/TableViewPull.app.dSYM build/Debug-iphoneos/TableViewPull.app/TableViewPull332669475#332669475#0(0"0(0#0#99"/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull8644526400#410"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM"0#
+
+CGenerateDSYMFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app.dSYM /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/TableViewPull
+r0
+
+CLd "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull" normal armv6
+r0
+
+CLd "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull" normal armv7
+r0
+
+CLd "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull" normal armv6
+s332669475.251909
+e332669475.320971
+r1
+xLd
+x/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull
+xnormal
+xarmv6
+lSLF07#2@147"Link /Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull332669475#332669475#0(0"0(0#0#0"8643735872#998"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" -filelist "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull.LinkFileList" -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework SystemConfiguration -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull"0#
+
+CLd "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull" normal armv7
+s332669475.284062
+e332669475.343052
+r1
+xLd
+x/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull
+xnormal
+xarmv7
+lSLF07#2@147"Link /Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull332669475#332669475#0(0"0(0#0#0"8647112352#998"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" -filelist "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull.LinkFileList" -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework SystemConfiguration -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull"0#
+
+CLd /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv6/TableViewPull normal armv6
+r0
+
+CLd /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/Objects-normal/armv7/TableViewPull normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist" Resources/TableViewPull-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist" Resources/TableViewPull-Info.plist
+s332667214.390101
+e332667214.396666
+r1
+xProcessInfoPlistFile
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist
+xResources/TableViewPull-Info.plist
+lSLF07#2@42"Process Resources/TableViewPull-Info.plist332667214#332667214#0(0"0(0#0#81"/Users/hxc/Documents/iphone code/TableViewPull/Resources/TableViewPull-Info.plist8634322080#636"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/TableViewPull-Info.plist -genpkginfo "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/ResourceRules.plist" -o "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/Info.plist Resources/TableViewPull-Info.plist
+r0
+
+CProcessPCH /var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cswrzaqqbyqzxyfddadodzjsnmwy/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/EN/ENmrDakkEzOaao7-bah5i++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-gkfnvogmweunhhfaxiqxuzstqpxw/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s332667215.417495
+e332667217.717268
+r1
+xProcessPCH
+x/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch.gch
+xTableViewPull_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TableViewPull_Prefix.pch332667215#332667217#0(0"0(0#0#71"/Users/hxc/Documents/iphone code/TableViewPull/TableViewPull_Prefix.pch8636820768#1836"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv7" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -c "/Users/hxc/Documents/iphone code/TableViewPull/TableViewPull_Prefix.pch" -o /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bfcnndokakpdwvbgvisawrmcvmsb/TableViewPull_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bnubkuvswmqjsteqfybtxozigcgq/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-bwxzgnxisfahnwfbtmorasqglidg/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch.gch TableViewPull_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s332667215.416058
+e332667217.666251
+r1
+xProcessPCH
+x/var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch.gch
+xTableViewPull_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile TableViewPull_Prefix.pch332667215#332667217#0(0"0(0#0#71"/Users/hxc/Documents/iphone code/TableViewPull/TableViewPull_Prefix.pch8637487200#1836"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-generated-files.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-own-target-headers.hmap" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-all-target-headers.hmap" -iquote "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull-project-headers.hmap" "-F/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/include" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources/armv6" "-I/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/DerivedSources" -c "/Users/hxc/Documents/iphone code/TableViewPull/TableViewPull_Prefix.pch" -o /var/folders/yY/yYqliXp4HMqQlBtIKHb4RU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewPull_Prefix-cskpqwgzcqeeusbycvoubqrarvug/TableViewPull_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/devin/Library/MobileDevice/Provisioning Profiles/C1BF0C20-972E-4EB9-A0A7-E37FC9DCADAF.mobileprovision" "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent"
+s332667218.486878
+e332667218.525957
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent332667218#332667218#0(0"0(0#0#127"/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent8632226080#470"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/hxc/Documents/iphone code/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/TableViewPull.build/Debug-iphoneos/TableViewPull.build/TableViewPull.xcent"
+r0
+
+CTouch "/Users/devin/Documents/iOS Dev/EGOTableViewPullRefresh/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+r0
+
+CTouch "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"
+s332669475.734894
+e332669475.739881
+r1
+xTouch
+x/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+lSLF07#2@91"Touch /Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app332669475#332669475#0(0"0(0#0#0"8649421600#290"    cd "/Users/hxc/Documents/iphone code/TableViewPull"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/hxc/Documents/iphone code/TableViewPull/build/Debug-iphoneos/TableViewPull.app"0#
+
+CTouch /Users/hxc/Desktop/enormego-EGOTableViewPullRefresh-743679f/Demo/TableViewPull/build/Debug-iphoneos/TableViewPull.app
+r0
+
